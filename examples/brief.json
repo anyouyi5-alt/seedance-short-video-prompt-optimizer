@@ -1,0 +1,10 @@
+{
+  "idea": "雨后的街角，小孩握着气球向前迈一步",
+  "mode": "image_to_video",
+  "duration_seconds": 4,
+  "aspect_ratio": "9:16",
+  "required_details": ["黄色雨衣", "红色气球", "向前迈出一步"],
+  "exclude_from_video_prompt": ["字幕", "水印"],
+  "audio": "none",
+  "reference_image": "首帧是一名穿黄色雨衣的小孩，右手握着红色气球，站在雨后的街角"
+}

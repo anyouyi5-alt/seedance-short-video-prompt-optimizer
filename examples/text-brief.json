@@ -1,0 +1,9 @@
+{
+  "idea": "黑色小猫在窗边转头看雨",
+  "mode": "text_to_video",
+  "duration_seconds": 6,
+  "aspect_ratio": "16:9",
+  "required_details": ["黑色小猫", "转头看向窗外"],
+  "exclude_from_video_prompt": ["字幕", "水印"],
+  "audio": "ambient"
+}

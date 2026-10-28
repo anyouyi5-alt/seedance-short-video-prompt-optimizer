@@ -1,0 +1,11 @@
+{
+  "video_prompt": "一只黑色小猫坐在室内窗边，起初面向镜头侧方，耳朵轻微摆动。随后它缓慢转头看向窗外，视线停在玻璃上的雨滴；镜头保持稳定中景，不切换场景。结尾停在小猫望向雨景的姿态，窗边位置和室内光线在全程保持一致。",
+  "negative_constraints": "字幕、水印、额外的猫、突然切镜",
+  "duration_seconds": 6,
+  "aspect_ratio": "16:9",
+  "audio_plan": "仅保留窗外轻雨的环境声，不添加对白或音乐。",
+  "reference_plan": "none",
+  "continuity_notes": "保持同一只黑色小猫、窗边位置、视线转向和背景雨景的连续性。",
+  "assumptions": ["未指定机位，采用稳定中景。"],
+  "capability_warnings": []
+}
